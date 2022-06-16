@@ -1,0 +1,7 @@
+argoverse.egg==info
+hypothesis==4.54.2
+matplotlib==3.2.2
+numpy==1.18.1
+pandas==1.0.0
+torch==1.10.2
+tqdm==4.42.0
